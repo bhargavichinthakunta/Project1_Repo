@@ -2,6 +2,7 @@ class sample
 {
 	public static void main string args[]
 	{
-		sop();
+		system.out.println(for day1);
+       system.out.println(for day2);
 	}
 }
